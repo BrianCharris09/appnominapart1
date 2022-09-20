@@ -80,6 +80,8 @@ public class Main {
         System.out.println("NETO PAGADO : "+conf.getNetoPagado());
         System.out.println("Comprobante de Nomina a la fecha "+conf.getFechaActual()+ ", Muchas gracias por elegirnos .");
         
+        
+        System.out.println("Good Bye!");
     }
     
 }
